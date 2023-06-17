@@ -2,7 +2,7 @@
 
 Car explorer is car rental project based on NEXTJS 13, in this project we explore features such rapidapi, nextJS server rendering and client client rendering, tailwindcss.
 
-Portfolio [link](https://car-explorer.vercel.app/)
+Project-link [link](https://car-explorer.vercel.app/)
 
 <img src="./public/carental.png"/>
 
