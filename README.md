@@ -4,7 +4,7 @@ Car explorer is car rental project based on NEXTJS 13, in this project we explor
 
 Portfolio [link](https://jonathanb.vercel.app/)
 
-<img src="./images/thegreateagleredo.png"/>
+<img src="./public/carental.png"/>
 
 ## Getting Started
 
